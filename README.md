@@ -14,6 +14,8 @@ As stated above, the main purpose is to provide simple
 
 ##How to Contribute
 
+Please fork this repo and then issue pull request for review
+
 ###Copyright
 Git. Training
 
