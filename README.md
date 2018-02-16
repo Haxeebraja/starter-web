@@ -14,4 +14,7 @@ As stated above, the main purpose is to provide simple
 
 ##How to Contribute
 
+###Copyright
+Git. Training
+
 
